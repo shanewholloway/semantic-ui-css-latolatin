@@ -1,0 +1,4 @@
+/* vim: set ft=less ts=2 sw=2: */
+@importGoogleFonts : false;
+@fontName: 'LatoLatinWeb';
+@latolatinFontPath: '../../themes/latolatin/assets/fonts';
