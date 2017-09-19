@@ -1,6 +1,6 @@
 {
   "name": "semantic-ui-css-latolatin",
-  "version": "2.2.13",
+  "version": "2.2.13-f1",
   "title": "Semantic UI; only CSS and package-local woff/woff2 fonts",
   "description": "CSS only distribution of Semantic UI and locally packaged LatoLatin font in woff/woff2",
   "license": "MIT",
