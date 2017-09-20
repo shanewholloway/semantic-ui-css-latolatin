@@ -2,8 +2,10 @@
 /* https://github.com/hakger/latolatin-webfont
    Lato Latin Font Licensed under version 1.1 of the SIL Open Font License */
 
+@latolatinFontPath: '@{themesFolder}/latolatin/assets/fonts';
+
 @font-face {
-    font-family: 'LatoLatinWeb';
+    font-family: 'Lato';
     src: url('@{latolatinFontPath}/LatoLatin-Regular.woff2') format('woff2'),
          url('@{latolatinFontPath}/LatoLatin-Regular.woff') format('woff');
     font-style: normal;
@@ -11,7 +13,7 @@
     text-rendering: optimizeLegibility;
 }
 @font-face {
-    font-family: 'LatoLatinWeb';
+    font-family: 'Lato';
     src: url('@{latolatinFontPath}/LatoLatin-Italic.woff2') format('woff2'),
          url('@{latolatinFontPath}/LatoLatin-Italic.woff') format('woff');
     font-style: italic;
@@ -19,7 +21,7 @@
     text-rendering: optimizeLegibility;
 }
 @font-face {
-    font-family: 'LatoLatinWeb';
+    font-family: 'Lato';
     src: url('@{latolatinFontPath}/LatoLatin-Bold.woff2') format('woff2'),
          url('@{latolatinFontPath}/LatoLatin-Bold.woff') format('woff');
     font-style: normal;
@@ -27,7 +29,7 @@
     text-rendering: optimizeLegibility;
 }
 @font-face {
-    font-family: 'LatoLatinWeb';
+    font-family: 'Lato';
     src: url('@{latolatinFontPath}/LatoLatin-BoldItalic.woff2') format('woff2'),
          url('@{latolatinFontPath}/LatoLatin-BoldItalic.woff') format('woff');
     font-style: italic;
